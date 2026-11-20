@@ -84,7 +84,7 @@ packaging==26.0 ; sys_platform == 'darwin'
     #   streamlit
 pandas==2.3.3 ; sys_platform == 'darwin'
     # via streamlit
-pillow==12.1.1 ; sys_platform == 'darwin'
+pillow==13.0.0 ; sys_platform == 'darwin'
     # via
     #   computer-use-best-practices
     #   pyscreeze
