@@ -162,7 +162,7 @@ tenacity==9.1.4 ; sys_platform == 'darwin'
     # via streamlit
 toml==0.10.2 ; sys_platform == 'darwin'
     # via streamlit
-tornado==6.5.5 ; sys_platform == 'darwin'
+tornado==6.6.1 ; sys_platform == 'darwin'
     # via streamlit
 typing-extensions==4.15.0 ; sys_platform == 'darwin'
     # via
